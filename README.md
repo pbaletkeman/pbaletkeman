@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently improving my Pyhton, Java and frontend knowledge and skills plus my project management knowledge/ability.
+🌱 I’m currently improving my Python, Java and frontend knowledge and skills plus my project management knowledge/ability.
 <!--
 **pbaletkeman/pbaletkeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
